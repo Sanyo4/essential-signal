@@ -89,6 +89,7 @@ Phase 2: The Workflow (Example)
 Scenario: You are reading a confusing Reddit thread or a tense WhatsApp chat.
 
 Open the App: Navigate to the Reddit thread/WhatsApp chat you want help with.
+https://www.reddit.com/r/notinteresting/comments/1lqskle/i_had_a_job_interview_today/
 
 Trigger Signal: Swipe down and tap the SIGNAL tile.
 
