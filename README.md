@@ -2,6 +2,7 @@
 Project Codename: Cactus-Hackathon
 
 couldn’t fit into github repo, here’s the wetransfer: https://we.tl/t-3DwAnYk6Md
+(run app-release.apk for this demo)
 
 Build Type: Release (APK Included)
 
