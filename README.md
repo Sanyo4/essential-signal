@@ -1,7 +1,7 @@
 # essential-signal
 Project Codename: Cactus-Hackathon
 
-Version: 1.0.4
+couldn’t fit into github repo, here’s the wetransfer: https://we.tl/t-3DwAnYk6Md
 
 Build Type: Release (APK Included)
 
